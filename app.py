@@ -21,5 +21,7 @@ def max(a,b,c):
             return b
         else:
             return c
-st.subheader('The Maximum of Three is ', max(10,6,4))
+st.subheader('The Maximum of Three is', divider='rainbow')
+st.subheader(max(a,b,c))
+
 
