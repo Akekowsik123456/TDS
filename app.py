@@ -1,4 +1,4 @@
- def max(a,b,c):
+def max(a,b,c):
     if a>b:
         if a>c :
             return a
